@@ -1,4 +1,3 @@
 ## Personal Portfolio
 
-Welcome to my Personal Portfolio
-- James Purnadi
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
