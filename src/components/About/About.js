@@ -10,9 +10,9 @@ const About = () => (
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         <TextDivContainer>
-          Howdy! My name is James Purnadi and I'm an aspiring full-stack web developer. 
+          Hello! My name is James Purnadi and I'm an aspiring full-stack web developer. 
           Currently, I'm a Senior Computer Engineering student, with a Mathematics minor, at Texas A&M University.
-          I find myself to be challenge driven, passionate about learning to innovate new technologies in benefiting society's needs.
+          I find myself to be challenge driven, taking ownership of projects, and passionate about learning to innovate new technologies in benefiting society's needs. 
           <ImgDivContainer>
             <img src='/images/Profilepic.png'  /> 
           </ImgDivContainer>
