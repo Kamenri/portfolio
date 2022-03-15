@@ -168,4 +168,9 @@ export const ImgDivContainer = styled.div`
   float: right;
   margin-left: 30px;
   margin-bottom: 10px;
+`;
+
+export const imgA = styled.img`
+  width: 100%;
+  height: auto;
 `

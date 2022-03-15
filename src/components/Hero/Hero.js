@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Howdy! I'm James and Welcome to my React.js Portfolio Website!
       </SectionText>
-      <Button onClick={() => window.location= 'https://google.com'}>Resume</Button>
+      <Button onClick={() => window.location= 'https://drive.google.com/file/d/1RoEA9gx6JNnDX3yosMMZ9yrEl383b9hI/view?usp=sharing'}>Resume</Button>
     </LeftSection>
 
   </Section>
